@@ -1,0 +1,19 @@
+C:\Users\User\Desktop\Генератор паролей\Генератор паролей\bin\Debug\Генератор паролей.exe.config
+C:\Users\User\Desktop\Генератор паролей\Генератор паролей\bin\Debug\Генератор паролей.exe
+C:\Users\User\Desktop\Генератор паролей\Генератор паролей\bin\Debug\Генератор паролей.pdb
+C:\Users\User\Desktop\Генератор паролей\Генератор паролей\obj\Debug\Генератор паролей.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Генератор паролей\Генератор паролей\obj\Debug\Генератор_паролей.Form1.resources
+C:\Users\User\Desktop\Генератор паролей\Генератор паролей\obj\Debug\Генератор_паролей.Properties.Resources.resources
+C:\Users\User\Desktop\Генератор паролей\Генератор паролей\obj\Debug\Генератор паролей.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Генератор паролей\Генератор паролей\obj\Debug\Генератор паролей.exe
+C:\Users\User\Desktop\Генератор паролей\Генератор паролей\obj\Debug\Генератор паролей.pdb
+C:\Users\User\Desktop\проекты программирование\Генератор паролей\Генератор паролей\bin\Debug\Генератор паролей.exe.config
+C:\Users\User\Desktop\проекты программирование\Генератор паролей\Генератор паролей\bin\Debug\Генератор паролей.exe
+C:\Users\User\Desktop\проекты программирование\Генератор паролей\Генератор паролей\bin\Debug\Генератор паролей.pdb
+C:\Users\User\Desktop\проекты программирование\Генератор паролей\Генератор паролей\obj\Debug\Генератор паролей.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\проекты программирование\Генератор паролей\Генератор паролей\obj\Debug\Генератор_паролей.Form1.resources
+C:\Users\User\Desktop\проекты программирование\Генератор паролей\Генератор паролей\obj\Debug\Генератор_паролей.Properties.Resources.resources
+C:\Users\User\Desktop\проекты программирование\Генератор паролей\Генератор паролей\obj\Debug\Генератор паролей.csproj.GenerateResource.cache
+C:\Users\User\Desktop\проекты программирование\Генератор паролей\Генератор паролей\obj\Debug\Генератор паролей.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\проекты программирование\Генератор паролей\Генератор паролей\obj\Debug\Генератор паролей.exe
+C:\Users\User\Desktop\проекты программирование\Генератор паролей\Генератор паролей\obj\Debug\Генератор паролей.pdb
